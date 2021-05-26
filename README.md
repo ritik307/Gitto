@@ -16,7 +16,7 @@ Platform that allows one to find, collaborate and chat with the other like minde
   <li>
     <b>Desktop View</b>
     <br/>
-    <img src="https://github.com/1s-0s/Gitto/blob/master/Screenshots/home.JPG" height=250 width="450"/> &nbsp&nbsp&nbsp
+    <img src="https://github.com/1s-0s/Gitto/blob/master/Screenshots/home.JPG" height=250 width="450"/> &nbsp
     <img src="https://github.com/1s-0s/Gitto/blob/master/Screenshots/dashboard.PNG" height=250 width="450"/>
     <br/>
     <br/>
